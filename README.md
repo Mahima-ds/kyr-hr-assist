@@ -56,7 +56,7 @@ uv add mcp[cli]
 * Open **Claude Desktop**, click the `+` icon, and select **Add from kyr-hr-assist**.
 * Fill in the required details for the new employee — the system will automatically generate onboarding workflows.
 
-<img src="resources\\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
+<img src="Resources/image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
 
 Alternatively, you can craft a custom prompt and let the **KYR-HR-ASSIST agent** take full control of the process.
 
